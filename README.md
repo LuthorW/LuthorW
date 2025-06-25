@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-## Eu sou Letícia, mas muitos me conhecem por Letícia Luthor.
+# I'm Letícia, but many know me as Letícia Luthor.
 
-🖥️: Eu curso Ciência da Computação na Unifal.
+🖥️ I'm studying Computer Science at Unifal.
 
-🏡: Eu sou brasileira e, atualmente, moro em Alfenas - MG.
+🏡 I'm Brazilian and currently living in Alfenas - MG.
 
-🦸‍♀️: Sou apaixonada por heróis e vilões.
+🦸‍♀️ I'm passionate about heroes and villains (just like Luthor on my name.
 
-📚: Histórias em quadrinhos e histórias de romance são coisas que eu sou apaixonada.
+📚 Romance stories and comic books are things I'm truly in love with.
