@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-# I'm Letícia, but many know me as Letícia Luthor.
+### I'm Letícia, but many know me as Letícia Luthor.
 
 🖥️ I'm studying Computer Science at Unifal.
 
