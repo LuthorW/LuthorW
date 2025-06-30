@@ -25,7 +25,7 @@ Sinta-se à vontade para entrar em contato comigo:
 
 - 📧 **Email**: leticia.alvesdanvers@gmail.com
 - 📸 **Instagram**: [@leticia.luthor](https://www.instagram.com/leticia.luthor)
-- 💻 **Meu site pessoal**: [luthorw.com](https://luthorw.github.io)
+- 💻 **Meu site pessoal**: https://luthorw.github.io
 
 ---
 
