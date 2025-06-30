@@ -15,7 +15,7 @@ Rossonera di cuore, forza Milan! ❤️🖤
 - 📚 Escrita criativa e histórias de romance
 - 🎮 Jogos com narrativa forte e escolhas emocionais
 - 🦸‍♀️ Universos de heróis e vilões
-- 🇮🇹 Cultura italiana e o AC Milan
+- 🇮🇹 Cultura italiana e AC Milan
 
 ---
 
