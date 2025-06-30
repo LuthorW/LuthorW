@@ -1,13 +1,13 @@
-# Hi there 👋
+# Olá! 👋
 
-### I'm Letícia, but you may know me as Letícia Luthor.
+### Eu sou a Letícia — mas talvez você me conheça como Letícia Luthor.
 
-🖥️: Studying Computer Science at Unifal.
+🖥️ Estudante de Ciência da Computação na UNIFAL.
 
-🏡: Brazilian and currently living in Alfenas - MG.
+🏡 Brasileira, vivendo em Alfenas - MG.
 
-🦸‍♀️: I'm passionate about heroes and villains (this explains Luthor in my name).
+🦸‍♀️ Apaixonada por heróis, vilões e todas as histórias que existem entre eles (o "Luthor" não é coincidência).
 
-📚: Romance stories and comic books are things I'm truly in love with.
+📚 Leitora voraz de romances e quadrinhos.
 
-🇮🇹: Rossonera di cuore, forza Milan! ❤️🖤
+🇮🇹 Rossonera de coração. Forza Milan! ❤️🖤
