@@ -1,31 +1,30 @@
 # 👩‍💻 Letícia Luthor
 
-## 🧾 Sobre Mim
+## 🧾 Su di Me
 
-Olá! Eu sou a Letícia — mas talvez você me conheça como Letícia Luthor.  
-Atualmente, sou estudante de **Ciência da Computação na UNIFAL** e moro em **Alfenas - MG**.  
-Brasileira, apaixonada por tudo que envolve **heróis, vilões** (o “Luthor” no nome não é por acaso).  
+Ciao! Io sono Letícia — ma forse mi conosci come Letícia Luthor.  
+Attualmente sono studentessa di **Informatica all’UNIFAL** e vivo ad **Alfenas - MG**.  
+Brasiliana, appassionata di tutto ciò che riguarda **eroi e cattivi**.  
 Rossonera di cuore, forza Milan! ❤️🖤
 
 ---
 
-## ⭐ Interesses
+## ⭐ Interessi
 
-- 💻 Desenvolvimento de software e web
-- 📚 Escrita criativa e histórias de romance
-- 🎮 Jogos com narrativa forte e escolhas emocionais
-- 🦸‍♀️ Universos de heróis e vilões
-- 🇮🇹 Cultura italiana e AC Milan
-
----
-
-## 📬 Contato
-
-Sinta-se à vontade para entrar em contato comigo:
-
-- 📧 **Email**: leticia.alvesdanvers@gmail.com
-- 📸 **Instagram**: [@leticia.luthor](https://www.instagram.com/leticia.luthor)
-- 💻 **Meu site pessoal**: https://luthorw.github.io
+- 💻 Sviluppo software e web  
+- 📚 Scrittura creativa e storie romantiche  
+- 🎮 Giochi con forte narrativa e scelte emozionali  
+- 🦸‍♀️ Universi di eroi e cattivi
+- ❤️ Dai Milan!
 
 ---
 
+## 📬 Contatto
+
+Sentiti libera/o di contattarmi:
+
+- 📧 **Email**: leticia.alvesdanvers@gmail.com  
+- 📸 **Instagram**: [@leticia.luthor](https://www.instagram.com/leticia.luthor)  
+- 💻 **Il mio sito personale**: https://luthorw.github.io  
+
+---
