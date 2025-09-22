@@ -20,16 +20,6 @@ Rossonera di cuore, forza Milan! ❤️🖤
 
 ---
 
-## ⭐ Interessi
-
-- 💻 Sviluppo software e web  
-- 📚 Scrittura creativa e storie romantiche  
-- 🎮 Giochi con forte narrativa e scelte emozionali  
-- 🦸‍♀️ Universi di eroi e cattivi
-- ❤️ Dai Milan!
-
----
-
 ## 📬 Contatto
 
 Sentiti libera/o di contattarmi:
