@@ -1,4 +1,8 @@
-# 👩‍💻 Letícia Luthor
+<h1 align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/653px-Logo_of_AC_Milan.svg.png" width="35">
+     Letícia Luthor   
+  <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/FCBarcelona.svg/1010px-FCBarcelona.svg.png" width="55">
+</h1>
 
 [![GitHub followers](https://img.shields.io/github/followers/LuthorW?label=Follow&style=social)](https://github.com/LuthorW/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-leticia.alvesdanvers@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:leticia.alvesdanvers@gmail.com)](mailto:leticia.alvesdanvers@gmail.com)
@@ -19,7 +23,7 @@
 Ciao! Io sono Letícia — ma forse mi conosci come Letícia Luthor.  
 Attualmente sono studentessa di **Informatica all’UNIFAL** e vivo ad **Alfenas - MG**.  
 Brasiliana, appassionata di tutto ciò che riguarda **eroi e cattivi**.  
-Rossonera di cuore, forza Milan! ❤️🖤
+Rossonera di anima, forza Milan! ❤️🖤 
 
 ---
 
