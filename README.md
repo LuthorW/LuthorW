@@ -17,21 +17,34 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuthorW&show_icons=true&include_all_commits=true&theme=radical" alt="Luthor's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthorW&layout=donut-vertical&theme=radical&hide=TeX" /></a> 
 | ------------- | ------------- |
 
-## 🧾 Su di Me
 
-Ciao! Io sono Letícia — ma forse mi conosci come Letícia Luthor.  
-Attualmente sono studentessa di **Informatica all’UNIFAL** e vivo ad **Alfenas - MG**.  
-Brasiliana, appassionata di tutto ciò che riguarda **eroi e cattivi**.  
-Rossonera di anima, forza Milan! ❤️🖤 
+<h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp" /><br>
+</div>
 
 ---
 
-## 📬 Contatto
-
+<h2 align="center">📫Contatto</h2>
+<br/>
+<div align="center">
 Sentiti libera/o di contattarmi:
+</div>
 
 - 📧 **Email**: leticia.alvesdanvers@gmail.com  
 - 📸 **Instagram**: [@leticia.luthor](https://www.instagram.com/leticia.luthor)  
-- 💻 **Il mio sito personale**: https://luthorw.github.io  
+- 💻 **Il mio sito personale**: https://luthorw.github.io
 
 ---
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LuthorW/LuthorW/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
