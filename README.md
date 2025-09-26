@@ -5,7 +5,7 @@
 [![ProfileViews](https://komarev.com/ghpvc/?username=LuthorW&color=red&style=flat)](https://komarev.com/ghpvc/?username=LuthorW)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&size=22&pause=1000&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=120&lines=Vaga+bunda;Pros+ti+tu+ta;Vaca+Safada;Ai+meu+cu" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&size=22&pause=800&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=435&height=120&lines=Vaga+bunda;CEO;Of;Luthor+Corp" alt="Typing SVG" /></a>
 </p>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuthorW&show_icons=true&include_all_commits=true&theme=github_dark" alt="Luthor's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthorW&layout=donut&theme=github_dark&hide=TeX" /></a> |
