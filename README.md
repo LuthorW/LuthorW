@@ -4,9 +4,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/FCBarcelona.svg/1010px-FCBarcelona.svg.png" width="55">
 </h1>
 
-[![GitHub followers](https://img.shields.io/github/followers/LuthorW?label=Follow&style=social)](https://github.com/LuthorW/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-leticia.alvesdanvers@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:leticia.alvesdanvers@gmail.com)](mailto:leticia.alvesdanvers@gmail.com)
-[![ProfileViews](https://komarev.com/ghpvc/?username=LuthorW&color=red&style=flat)](https://komarev.com/ghpvc/?username=LuthorW)
+[![GitHub followers](https://img.shields.io/github/followers/LuthorW?label=Follow&style=flat&color=000000&labelColor=9400D3&logo=github&logoColor=FFFFFF)](https://github.com/LuthorW/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-leticia.alvesdanvers@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=FFFFFF&labelColor=9400D3)](mailto:leticia.alvesdanvers@gmail.com)
+[![ProfileViews](https://komarev.com/ghpvc/?username=LuthorW&color=9400D3&style=flat-square&labelColor=000000&background=000000)](https://komarev.com/ghpvc/?username=LuthorW)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -14,8 +14,7 @@
   </a>
 </p>
 
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuthorW&show_icons=true&include_all_commits=true&theme=github_dark" alt="Luthor's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthorW&layout=donut&theme=github_dark&hide=TeX" /></a> |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LuthorW&show_icons=true&include_all_commits=true&theme=radical" alt="Luthor's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthorW&layout=donut-vertical&theme=radical&hide=TeX" /></a> 
 | ------------- | ------------- |
 
 ## 🧾 Su di Me
