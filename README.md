@@ -1,10 +1,10 @@
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Wonder_woman_golden_logo.png" width="80">
-</div>
-  
 [![GitHub followers](https://img.shields.io/github/followers/LuthorW?label=Follow&style=flat&color=000000&labelColor=9400D3&logo=github&logoColor=FFFFFF)](https://github.com/LuthorW/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-leticia.alvesdanvers@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=FFFFFF&labelColor=9400D3)](mailto:leticia.alvesdanvers@gmail.com)
 [![ProfileViews](https://komarev.com/ghpvc/?username=LuthorW&color=9400D3&style=flat-square&labelColor=000000&background=000000)](https://komarev.com/ghpvc/?username=LuthorW)
+
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Wonder_woman_golden_logo.png" width="80">
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
