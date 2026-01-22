@@ -13,10 +13,9 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuthorW&theme=aura&hide_border=true" width="48%" />
-  <img src="https://readme-streak-stats.demolab.com/?user=LuthorW&theme=aura&hide_border=true" width="48%" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthorW&theme=aura&hide_border=true&layout=compact" width="40%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuthorW&theme=aura&hide_border=true" width="48%" />  
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
