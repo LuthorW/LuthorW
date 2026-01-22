@@ -13,11 +13,11 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuthorW&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuthorW&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthorW&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuthorW&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://readme-streak-stats.demolab.com/?user=LuthorW&theme=aura&hide_border=true" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthorW&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" />
 </div>
-
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
 <br/>
@@ -39,7 +39,7 @@
 <div align="center">
   <h2>🐍 My Contributions</h2>
 
-![snake gif](https://github.com/LuthorW/LuthorW/blob/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/LuthorW/LuthorW/output/github-snake-dark.svg" alt="snake animation" />
 
 </div>
 
