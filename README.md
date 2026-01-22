@@ -13,10 +13,10 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuthorW&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuthorW&theme=aura&hide_border=true" width="48%" />
   <img src="https://readme-streak-stats.demolab.com/?user=LuthorW&theme=aura&hide_border=true" width="48%" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthorW&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuthorW&theme=aura&hide_border=true&layout=compact" width="40%" />
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
@@ -46,7 +46,7 @@
 <hr/>
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/653px-Logo_of_AC_Milan.svg.png" width="35">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg" width="35">
   <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/FCBarcelona.svg/1010px-FCBarcelona.svg.png" width="55">
   <p><small>Partner of AC Milan and FC Barcelona.</small></p>
 </div>
