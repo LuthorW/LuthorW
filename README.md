@@ -13,7 +13,15 @@
 </p>
 
 <div align="center">
-    [![LuthorCorporation.com](https://img.shields.io/badge/Acessar_site-Disponivel-purple?style=for-the-badge&logo=safari&logoColor=white)](https://luthorw.github.io/LuthorCorp/)
+  <a href="https://luthorw.github.io/LuthorCorp/">
+    <img src="https://raw.githubusercontent.com/LuthorW/LuthorCorp/main/favicon.ico" width="28" align="absmiddle" alt="Logo L-Corp">
+    <img src="https://img.shields.io/badge/Luthor_Corporation-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="Luthor Corporation">
+  </a>
+  <br><br>
+  <a href="https://luthorw.github.io/dbdle/">
+    <img src="https://raw.githubusercontent.com/LuthorW/LuthorCorp/main/favicon.ico" width="28" align="absmiddle" alt="Logo DBDle">
+    <img src="https://img.shields.io/badge/DBDle-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="DBDle">
+  </a>
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
