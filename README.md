@@ -20,6 +20,7 @@
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
 <br/>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp" /><br>
@@ -27,7 +28,7 @@
 
 <div align="center">
   
-<h2 align="center">🌐 Connect with Me<h2>
+<h2 align="center">🌐 Connect with Me</h2>
   
 [![Discord](https://img.shields.io/badge/Discord-%232C2F33.svg?logo=discord&logoColor=white)](https://discordapp.com/users/luthorw)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?logo=instagram&logoColor=white)](https://www.instagram.com/leticia.luthor/)
@@ -46,6 +47,6 @@
 
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg" width="35">
-  <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/4/43/FCBarcelona.svg/1010px-FCBarcelona.svg.png" width="55">
+  <img src="https://upload.wikimedia.org/wikipedia/pt/4/43/FCBarcelona.svg" width="45">
   <p><small>Partner of AC Milan and FC Barcelona.</small></p>
 </div>
