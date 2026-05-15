@@ -62,7 +62,9 @@
 <hr/>
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg" width="35">
-  <img src="https://upload.wikimedia.org/wikipedia/pt/4/43/FCBarcelona.svg" width="45">
-  <p><small>Partner of AC Milan and FC Barcelona.</small></p>
+    <img src="https://raw.githubusercontent.com/LuthorW/LuthorCorp/main/imgs/milan.png" width="55" alt="AC Milan">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/LuthorW/LuthorCorp/main/imgs/barcelona.png" width="75" alt="FC Barcelona">
+    <br><br>
+    <p>Partner of AC Milan and FC Barcelona.</p>
 </div>
