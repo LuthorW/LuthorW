@@ -20,7 +20,7 @@
   <br><br>
   <a href="https://luthorw.github.io/CatCo/">
     <img src="https://raw.githubusercontent.com/LuthorW/LuthorCorp/main/favicon.ico" width="28" align="absmiddle" alt="Logo CatCo">
-    <img src="https://img.shields.io/badge/Luthor_Corporation-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="CatCo">
+    <img src="https://img.shields.io/badge/CatCo_Worldwide_Media-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="CatCo">
   </a>
   <br><br>
   <a href="https://luthorw.github.io/dbdle/">
