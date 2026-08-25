@@ -28,9 +28,9 @@
     <img src="https://img.shields.io/badge/DBDle-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="DBDle">
   </a>
   <br><br>
-  <a href="https://luthorw.github.io/Princessdle/">
-    <img src="https://raw.githubusercontent.com/LuthorW/LuthorCorp/main/favicon.ico" width="28" align="absmiddle" alt="Logo Princessdle">
-    <img src="https://img.shields.io/badge/Princessdle-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="Princessdle">
+  <a href="https://luthorw.github.io/CMHospitais/">
+    <img src="https://raw.githubusercontent.com/LuthorW/LuthorCorp/main/favicon.ico" width="28" align="absmiddle" alt="Logo CMHospitais">
+    <img src="https://img.shields.io/badge/CM_Hospitais-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="CM Hospitais">
   </a>
   <br><br>
   <a href="https://luthorw.github.io/NaoPode/">
