@@ -28,6 +28,11 @@
     <img src="https://img.shields.io/badge/CM_Hospitais-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="CM Hospitais">
   </a>
   <br><br>
+  <a href="https://luthorw.github.io/The-Witch/">
+    <img src="https://raw.githubusercontent.com/LuthorW/LuthorCorp/main/favicon.ico" width="28" align="absmiddle" alt="Logo The Witch">
+    <img src="https://img.shields.io/badge/The_Witch-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="The Witch">
+  </a>
+  <br><br>
   <a href="https://luthorw.github.io/dbdle/">
     <img src="https://raw.githubusercontent.com/LuthorW/LuthorCorp/main/favicon.ico" width="28" align="absmiddle" alt="Logo DBDle">
     <img src="https://img.shields.io/badge/DBDle-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="DBDle">
@@ -37,11 +42,7 @@
     <img src="https://raw.githubusercontent.com/LuthorW/LuthorCorp/main/favicon.ico" width="28" align="absmiddle" alt="Logo NP">
     <img src="https://img.shields.io/badge/Não_Pode-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="Não Pode">
   </a>
-  <br><br>
-  <a href="https://luthorw.github.io/The-Witch/">
-    <img src="https://raw.githubusercontent.com/LuthorW/LuthorCorp/main/favicon.ico" width="28" align="absmiddle" alt="Logo The Witch">
-    <img src="https://img.shields.io/badge/The_Witch-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="The Witch">
-  </a>
+
 </div>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools</h2>
