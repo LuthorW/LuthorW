@@ -23,6 +23,16 @@
     <img src="https://img.shields.io/badge/CatCo_Worldwide_Media-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="CatCo">
   </a>
   <br><br>
+    <a href="https://luthorw.github.io/Music-Master/">
+    <img src="https://raw.githubusercontent.com/LuthorW/LuthorCorp/main/favicon.ico" width="28" align="absmiddle" alt="Logo MusicMaster">
+    <img src="https://img.shields.io/badge/Music_Master-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="CatCo">
+  </a>
+  <br><br>
+    <a href="https://luthorw.github.io/Ecos-de-Argyra/">
+    <img src="https://raw.githubusercontent.com/LuthorW/LuthorCorp/main/favicon.ico" width="28" align="absmiddle" alt="Logo EcosDeArgyra">
+    <img src="https://img.shields.io/badge/Ecos_de_Argyra-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="CatCo">
+  </a>
+  <br><br>
   <a href="https://luthorw.github.io/CMHospitais/">
     <img src="https://raw.githubusercontent.com/LuthorW/LuthorCorp/main/favicon.ico" width="28" align="absmiddle" alt="Logo CMHospitais">
     <img src="https://img.shields.io/badge/CM_Hospitais-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="CM Hospitais">
