@@ -2,6 +2,9 @@
 [![ProfileViews](https://komarev.com/ghpvc/?username=LuthorW&color=9400D3&style=flat-square&labelColor=000000&background=000000)](https://komarev.com/ghpvc/?username=LuthorW)
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/LuthorW/LuthorCorp/main/favicon.ico" width="80">
+</div>
+<div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Wonder_woman_golden_logo.png" width="80">
 </div>
 
