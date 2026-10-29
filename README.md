@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-  <a href="luthorw.github.io/Luthor-Life/">
+  <a href="https://luthorw.github.io/Luthor-Life/">
     <img src="https://raw.githubusercontent.com/LuthorW/LuthorCorp/main/favicon.ico" width="28" align="absmiddle" alt="Logo L-Corp">
     <img src="https://img.shields.io/badge/Luthor_Life-Acesso-purple?style=for-the-badge&labelColor=black" align="absmiddle" alt="Luthor Life">
   </a>
