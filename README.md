@@ -21,7 +21,7 @@
 
 <p align="center">
   🗣️ <b>Languages I speak</b><br>
-  <img src="https://img.shields.io/badge/-Portuguese-9400D3?style=flat-square" alt="Portuguese"> <img src="https://img.shields.io/badge/-English-9400D3?style=flat-square" alt="English"> <img src="https://img.shields.io/badge/-Italian-9400D3?style=flat-square" alt="Italian"> <img src="https://img.shields.io/badge/-Spanish-9400D3?style=flat-square" alt="Spanish"> <img src="https://img.shields.io/badge/-German%20(a%20little)-6E2A9C?style=flat-square" alt="German (a little)">
+  <img src="https://flagcdn.com/24x18/pt.png" width="24" height="18" align="absmiddle" alt="">&nbsp;<img src="https://img.shields.io/badge/-Portuguese-9400D3?style=flat-square" align="absmiddle" alt="Portuguese"> &nbsp; <img src="https://flagcdn.com/24x18/us.png" width="24" height="18" align="absmiddle" alt="">&nbsp;<img src="https://img.shields.io/badge/-English-9400D3?style=flat-square" align="absmiddle" alt="English"> &nbsp; <img src="https://flagcdn.com/24x18/it.png" width="24" height="18" align="absmiddle" alt="">&nbsp;<img src="https://img.shields.io/badge/-Italian-9400D3?style=flat-square" align="absmiddle" alt="Italian"> &nbsp; <img src="https://flagcdn.com/24x18/es.png" width="24" height="18" align="absmiddle" alt="">&nbsp;<img src="https://img.shields.io/badge/-Spanish-9400D3?style=flat-square" align="absmiddle" alt="Spanish"> &nbsp; <img src="https://flagcdn.com/24x18/de.png" width="24" height="18" align="absmiddle" alt="">&nbsp;<img src="https://img.shields.io/badge/-German%20(a%20little)-6E2A9C?style=flat-square" align="absmiddle" alt="German (a little)">
 </p>
 
 <h2 align="center">⭐ Featured project</h2>
